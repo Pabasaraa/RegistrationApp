@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Register App</string>
+    <string name="welcome">WELCOME</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="email">Email Address</string>
+    <string name="dob">Date Of Birth</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender :</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="profile">Profile</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delet</string>
+    <string name="del">Delete</string>
+    <string name="Search">Search Users</string>
+    <string name="Searchh">Search</string>
+    <string name="usernamee">Username</string>
+    <string name="user">Username :</string>
+    <string name="namee">Name :</string>
+    <string name="emailaddress">Email Address :</string>
+    <string name="Birth">DOB :</string>
+    <string name="sex">Gender :</string>
+    <string name="editprofile">Edit Profile</string>
+</resources>
